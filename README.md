@@ -11,7 +11,8 @@ Este  proyecto es un clon de la interfaz de Pinterest, creado con HTML5 y CSS3. 
 + **CSS3:** Para el diseño y estilo, incluyendo _flexbox_ para un diseño responsivo y efectos de _hover_.
 + **Google icons:** Para iconos personalizados.
 
-
+### Vista previa del proyecto
+![Demo](/imagenes/interfaz_pinterest.png)
 
 ### Contacto
 Liliana Martin: [Mi LinkedIn]()
