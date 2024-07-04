@@ -14,5 +14,8 @@ Este  proyecto es un clon de la interfaz de Pinterest, creado con HTML5 y CSS3. 
 ### Vista previa del proyecto
 ![Demo](/imagenes/interfaz_pinterest.png)
 
+### Link para viasualizar la página
+[Clon de Pinterest](https://clondepinterest-beta.vercel.app)
+
 ### Contacto
-Liliana Martin: [Mi LinkedIn]()
+Liliana Martin: [Mi LinkedIn](https://www.linkedin.com/in/liliana-martin-439113316/)
